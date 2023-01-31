@@ -27,7 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://github.com/ratul16/frontend-mentor-challenge/tree/main/qr-code-component
-- Live Site URL: https://codepen.io/ratul16/pen/BaPOMOV
+- Live Site URL: https://ratul16.github.io/frontend-mentor-challenge/qr-code-component/
 
 ## My process
 
